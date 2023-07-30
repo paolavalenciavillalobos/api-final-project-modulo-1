@@ -153,9 +153,7 @@
   ],
   "usuario": [
     {
-      "id": 1,
-      "email": "email@email.com",
-      "senha": "password"
+     
     }
   ]
 }
