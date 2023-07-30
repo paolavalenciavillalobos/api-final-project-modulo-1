@@ -147,7 +147,7 @@
       "email": "aluno1@email.com",
       "turma": {
         "id": 1,
-        "titulo": "turma1",
+        "titulo": "turma1"
       }
     }
   ]
